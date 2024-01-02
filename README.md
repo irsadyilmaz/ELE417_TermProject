@@ -1,0 +1,1 @@
+Hello, Fungi.zip includes all codes that we generated for growing box. OLED.zip includes codes for remote conttrolling, but (unfortunately) after 2 fatal failure with 2 different stm32 we couldn't complete remote control side.
